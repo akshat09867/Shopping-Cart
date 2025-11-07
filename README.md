@@ -1,6 +1,6 @@
 # ShopSmart - E-commerce React Application
 
-A modern, responsive e-commerce web application built with React, featuring product browsing, shopping cart functionality, and a seamless user experience.
+A modern, responsive e-commerce [web application](https://melodious-clafoutis-d5d49e.netlify.app/) built with React, featuring product browsing, shopping cart functionality, and a seamless user experience.
 
 ## 🚀 Features
 
